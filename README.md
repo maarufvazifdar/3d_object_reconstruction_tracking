@@ -4,6 +4,8 @@
   <img src="results/5.png" width="500" />
 </p>
 
+The goal of the project is 3D object detection and pose estimation using stereo images. The idea is to gain knowledge about the conventional methodology in segmenting the object from the given scene, estimating the pose of the object from its point cloud data and providing the 3D bounding box for object orientation and alignment with respect to the camera which provides the accurate 3D pose of the object. This methodology is evaluated on KITTI dataset- Stereo Evaluation 2015.
+
 ### Dependencies:
 1. OpenCV
 2. [PixelLib](https://pixellib.readthedocs.io/en/latest/index.html)
